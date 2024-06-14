@@ -1,0 +1,24 @@
+[
+    {   "category": "fourDay",
+        "name": "Four Day Elopement"
+    },
+    {   "category": "threeDay",
+        "name": "Three Day Elopement"
+    },
+    {   "category": "twoDay",
+        "name": "Two Day Elopement"
+    },
+    {   "category": "fullDay",
+        "name": "Full Day Elopement"
+    },
+    {   "category": "halfDay",
+        "name": "Half-Day Elopement"
+    },
+    {  
+         "category": "miniDay",
+        "name": "Mini Elopement" 
+    }
+]
+
+
+

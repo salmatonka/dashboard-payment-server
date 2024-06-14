@@ -1,0 +1,60 @@
+[
+    {  "category": "fourDay",
+        "name": "Four Day Elopement",
+        "rating": "96 hours",
+        "price": "40000",
+        "img": " https://thumbs.dreamstime.com/b/guests-throwing-confetti-over-bride-groom-wedding-67504577.jpg",
+        "description": "Personalized Location Idea List.Logistics & Planning Tools.Vendor Recommendations.Planning support for all activities throughout the day!Custom Elopement Timeline.Full Resolution Images With Printing Rights.Online Gallery To View, Download, Print,  Share Your Images And  Share Your Wedding Images"
+       
+    },
+    {   "category": "threeDay",
+        "name": "Three Day Elopement",
+        "rating": "72 hours",
+        "price": "30000",
+        "img": "https://freedesignfile.com/upload/2017/02/Romantic-wedding-Stock-Photo.jpg",
+        "description": "Personalized Location Idea List.Logistics & Planning Tools.Custom Elopement Timeline.Full Resolution Images With Printing Rights.Online Gallery To View, Download, Print,  Share Your Images And  Share Your Wedding Images"
+        
+    },
+    {  "category": "twoDay",
+        "name": "Two Day Elopement",
+        "rating": "48 hours",
+        "price": "20000",
+        "img": "https://onefabday.com/wp-content/uploads/2017/03/Wedding-Photo-Checklist-wedding-photographer.jpg",
+        "description": "Personalized Location Idea List.Planning Tools.Custom Elopement Timeline.Full Resolution Images With Printing Rights.Online Gallery To View, Download, Print, Share Your Images And  Share Your Wedding Images"
+        
+    },
+    {   "category": "fullDay",
+        "name": " Full Day Elopement",
+        "rating": "24 hours",
+        "price": "18000",
+        "img": "https://cdn0.weddingwire.in/article/9086/3_2/960/jpg/16809-creative-wedding-photography-avinash-dhoundhiyal-photography-lead-image.jpeg",
+        "description": "Personalized Location Idea List.Full Resolution Images With Printing Rights.Planning Tools.Online Gallery To View, Download, Print,And Share Your Images "
+        
+    },
+    {   "category": "halfDay",
+        "name": "Half-Day Elopement",
+        "rating": "12 hours",
+        "price": "8000",
+        "img": "https://irichphotography.com/wp-content/uploads/2020/09/COIMBATORE-WEDDING-PHOTOGRAPHY-42-e1600684584870.jpg",
+        "description": "Personalized Location Idea List.Full Resolution Images With Printing Rights.Online Gallery To View, Download, Print,And  Share Your Images "
+        
+    },
+    {   "category": "miniDay",
+        "name": "Mini Elopement",
+        "rating": "6 hours",
+        "price": "5000",
+        "img": "https://st2.depositphotos.com/1854227/6338/i/450/depositphotos_63380897-stock-photo-newlywed-couple-and-their-friends.jpg",
+        "description": "Personalized Location Idea List.Full Resolution Images With Printing Rights.Online Gallery To View, Download, Print, And  Share Your Images"
+        
+    }
+]
+
+
+
+
+
+
+
+
+
+
